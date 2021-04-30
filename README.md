@@ -1,4 +1,4 @@
 ## Pedro Diaz Romagnoli
 
-[a relative link](CV.md)
-
+[Link al CV](CV.md)
+[Link al pullrequest](pullrequest.md)

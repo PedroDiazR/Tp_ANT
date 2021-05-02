@@ -5,4 +5,4 @@ Ciudad - Pais:  París, Francia
 Mail: pedrodiazromagnoli@gmail.com
 Experiencia Profesional: Ninguna
 
-Modificación 2
+Modificación 1 y 2
